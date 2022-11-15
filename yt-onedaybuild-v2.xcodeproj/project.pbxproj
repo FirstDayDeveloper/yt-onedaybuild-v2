@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A3BE0F4729238697006F92A8 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3BE0F4629238697006F92A8 /* Constants.swift */; };
+		A3BE0F49292389DB006F92A8 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3BE0F48292389DB006F92A8 /* Video.swift */; };
+		A3BE0F4B29238A7E006F92A8 /* VideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3BE0F4A29238A7E006F92A8 /* VideoModel.swift */; };
 		A3F7EF9B291CF77500121CC2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3F7EF9A291CF77500121CC2 /* AppDelegate.swift */; };
 		A3F7EF9D291CF77500121CC2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3F7EF9C291CF77500121CC2 /* SceneDelegate.swift */; };
 		A3F7EF9F291CF77500121CC2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3F7EF9E291CF77500121CC2 /* ViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A3BE0F4629238697006F92A8 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		A3BE0F48292389DB006F92A8 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		A3BE0F4A29238A7E006F92A8 /* VideoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoModel.swift; sourceTree = "<group>"; };
 		A3F7EF97291CF77500121CC2 /* yt-onedaybuild-v2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "yt-onedaybuild-v2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3F7EF9A291CF77500121CC2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A3F7EF9C291CF77500121CC2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +69,9 @@
 				A3F7EFA3291CF77C00121CC2 /* Assets.xcassets */,
 				A3F7EFA5291CF77C00121CC2 /* LaunchScreen.storyboard */,
 				A3F7EFA8291CF77C00121CC2 /* Info.plist */,
+				A3BE0F4629238697006F92A8 /* Constants.swift */,
+				A3BE0F48292389DB006F92A8 /* Video.swift */,
+				A3BE0F4A29238A7E006F92A8 /* VideoModel.swift */,
 			);
 			path = "yt-onedaybuild-v2";
 			sourceTree = "<group>";
@@ -139,8 +148,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3F7EF9F291CF77500121CC2 /* ViewController.swift in Sources */,
+				A3BE0F4B29238A7E006F92A8 /* VideoModel.swift in Sources */,
 				A3F7EF9B291CF77500121CC2 /* AppDelegate.swift in Sources */,
 				A3F7EF9D291CF77500121CC2 /* SceneDelegate.swift in Sources */,
+				A3BE0F4729238697006F92A8 /* Constants.swift in Sources */,
+				A3BE0F49292389DB006F92A8 /* Video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
