@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A368FD3329263378009F6E8C /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = A368FD3229263378009F6E8C /* Response.swift */; };
 		A3BE0F4729238697006F92A8 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3BE0F4629238697006F92A8 /* Constants.swift */; };
 		A3BE0F49292389DB006F92A8 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3BE0F48292389DB006F92A8 /* Video.swift */; };
 		A3BE0F4B29238A7E006F92A8 /* VideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3BE0F4A29238A7E006F92A8 /* VideoModel.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A368FD3229263378009F6E8C /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		A3BE0F4629238697006F92A8 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		A3BE0F48292389DB006F92A8 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		A3BE0F4A29238A7E006F92A8 /* VideoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoModel.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				A3BE0F4629238697006F92A8 /* Constants.swift */,
 				A3BE0F48292389DB006F92A8 /* Video.swift */,
 				A3BE0F4A29238A7E006F92A8 /* VideoModel.swift */,
+				A368FD3229263378009F6E8C /* Response.swift */,
 			);
 			path = "yt-onedaybuild-v2";
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				A3F7EF9D291CF77500121CC2 /* SceneDelegate.swift in Sources */,
 				A3BE0F4729238697006F92A8 /* Constants.swift in Sources */,
 				A3BE0F49292389DB006F92A8 /* Video.swift in Sources */,
+				A368FD3329263378009F6E8C /* Response.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
